@@ -1,5 +1,5 @@
 {
-    "name": "elitedevsolution/dhl-api",
+    "name": "elitedevsolution/laravel-dhl-api",
     "description": "PHP library to communicate with the DHL XML Services.",
     "require": {
         "php": ">=7.0"
