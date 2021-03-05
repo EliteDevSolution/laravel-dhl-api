@@ -8,7 +8,7 @@
 Package should be installed through composer:
 
 ```bash
-composer require mtcmedia/dhl-api 
+composer require elitedevsolution/laravel-dhl-api 
 ```
 
 Package requires a php min version of 7.0, however it has has been developed and tested on php 7.2.*  
@@ -30,19 +30,7 @@ DHL XML Services Test server for customer certification: https://xmlpitest-ea.dh
 
 [Shipment Requests (v6.2)](docs/shipment.md)
 
-[Pickup Request (v1.0)](docs/pickup.md)
+[Pickup Request (v3.0)](docs/pickup.md)
 
 [Tracking Requests (v1.0)](docs/tracking.md)
 
-
-## Contributing
-
-Please see [CONTRIBUTING](contributing.md) for details.
-
-### Security
-
-If you discover any security-related issues, please email [opensource@mtcmedia.co.uk](mailto:opensource@mtcmedia.co.uk) instead of using the issue tracker.
-
-## License
-
-The package is provided under MIT License. Please see [License File](license.md) for more information.
