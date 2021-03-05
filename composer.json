@@ -1,0 +1,19 @@
+{
+    "name": "elitedevsolution/dhl-api",
+    "description": "PHP library to communicate with the DHL XML Services.",
+    "require": {
+        "php": ">=7.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Mtc\\Dhl\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Elite Dev Solution",
+            "email": "fstorm707@gmail.com"
+        }
+    ]
+}
