@@ -27,7 +27,7 @@ class Pickup extends Base
             'type'      => 'string',
             'required'  => true,
             'subobject' => false,
-            'comment'   => 'Date Y-m-d',
+            'comment'   => 'Pickup Type',
             'maxLength' => '10',
         ],
         'ReadyByTime' => [
